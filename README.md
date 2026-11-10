@@ -1,16 +1,17 @@
-## Hi there 👋
+# `ypx13 ● howdy!       ⎯⠀▢ ⤬`
 
-<!--
-**ypx13/ypx13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+niche of niche. 
 
-Here are some ideas to get you started:
+i'm ypx.13 (or just call me yp). i make niche apps of niche categories you didn't know you needed, but now you do ;)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+
+- Improving **TaskTile**
+
+## i speak
+
+`C#`
+
+## Featured projects
+
+- [**TaskTile**](https://github.com/ypx13/TaskTile) — a truly tactile (ba dum tssh ;D) Windows 11 taskbar utility!
