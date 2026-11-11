@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ypx13/ypx13/refs/heads/main/azurepeek.png?token=GHSAT0AAAAAAEF5B2O3AKSCU7S2DVY5BUAQ2XUAH5Q" align="right" width="110" alt="azure peeking" style="margin-top: -10px;" />
+<img src="https://github.com/ypx13/ypx13/blob/main/azurepeek.png" align="right" width="110" alt="azure peeking" style="margin-top: -10px;" />
 
 # `ypx.13/readme.md    🗕 🗖 🗙`
 
